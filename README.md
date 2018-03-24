@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(3 23, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gabriel Gomez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The intended goal of this assignment was to create a photowheel)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://gabsteve23.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One concept I learned from this assignment is that of creating nodes)
+2. (Another concept which I learned from this assignment is that of creating a proper photogallery)
+3. (A final lesson which I learned is that of using the append child method)
